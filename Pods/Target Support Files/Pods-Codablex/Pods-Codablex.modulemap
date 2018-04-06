@@ -1,0 +1,6 @@
+framework module Pods_Codablex {
+  umbrella header "Pods-Codablex-umbrella.h"
+
+  export *
+  module * { export * }
+}
